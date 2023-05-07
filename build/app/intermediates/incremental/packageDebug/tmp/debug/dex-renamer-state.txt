@@ -1,0 +1,4 @@
+#Mon May 08 00:29:18 BDT 2023
+base.0=/Users/macbookpro/StudioProjects/yuma_tech_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
